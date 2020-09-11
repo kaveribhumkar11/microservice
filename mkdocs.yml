@@ -1,0 +1,4 @@
+site_name: Medixcel
+nav:
+    - VCI Microservice: index.md
+theme: readthedocs
