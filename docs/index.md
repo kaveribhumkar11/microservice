@@ -2,7 +2,10 @@
     This microservice will help your project to set up video calls for users. 
     Currently we are supporting google(hangout) meetings and zoom meetings. 
 # Microservice Overview through Diagram
-<img src="http://127.0.0.1:8000/images/image1.png"  style="width: 710.00px; height: 630.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" ></img>
+<figure>
+  <img src="https://github.com/kaveribhumkar11/microservice/blob/master/docs/images/image1.png" width="300" />
+  <figcaption>Microservice Overview</figcaption>
+</figure>
 
 # Steps to Integrate/use this microservice in your system
 * For now, you will need to mail me the details like your product name along with the redirect url(redirect url will be used while connecting the user of your project with this microservice). My mail id = kaveri.bhumkar@plus91.in
